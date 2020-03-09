@@ -1,10 +1,11 @@
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
-Readme modified
+Readme modified.
+Modifying for task 4.
 
 ## Getting started
-
+  
 * The application is implemented in Java.
 * The project can be built using [Gradle](https://gradle.org/).
 * [JUnit](http://junit.org/junit4/) is used for tests.
