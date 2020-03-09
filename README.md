@@ -1,8 +1,8 @@
 # Train Speed Controller
 
 This is a sample application for the verification laboratory.
-Readme modified.
-Modifying for task 4.
+Readme modified
+added another line for task4
 
 ## Getting started
   
